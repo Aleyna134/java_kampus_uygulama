@@ -1,4 +1,4 @@
-package com.example.arabica;
+package com.example.myapplication3;
 
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;

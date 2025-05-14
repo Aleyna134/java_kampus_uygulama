@@ -1,4 +1,4 @@
-package com.example.arabica;
+package com.example.myapplication3;
 
 public class Duyuru {
     private String title;
