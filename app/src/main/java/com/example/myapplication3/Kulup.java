@@ -16,7 +16,6 @@ public abstract class Kulup {
         this.aciklama = aciklama;
         this.logo = logo;
     }
-
     public int getId() { return id; }
     public String getAd() { return ad; }
     public String getAciklama() { return aciklama; }
