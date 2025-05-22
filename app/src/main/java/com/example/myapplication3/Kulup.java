@@ -4,10 +4,10 @@ import android.graphics.Bitmap;
 import java.util.List;
 
 public abstract class Kulup {
-    private int id;
-    private String ad;
-    private String aciklama;
-    private Bitmap logo;
+    private final int id;
+    private final String ad;
+    private final String aciklama;
+    private final Bitmap logo;
     private List<Etkinlik> etkinlikler;
 
     public Kulup(int id, String ad, String aciklama, Bitmap logo) {
